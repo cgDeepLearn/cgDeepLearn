@@ -15,7 +15,7 @@
   * 🍎 Eater
   
   <p align="center"> 
-  add more
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfrost&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
   </p>
   
 </details>
