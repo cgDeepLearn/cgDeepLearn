@@ -7,4 +7,17 @@
 - :ram: Ready to Go!
 - :meat_on_bone: Meat lover
 
+<details>
+  <summary>Some other achievements about me~</summary>
+  <br>
+  
+  * 🤪 Fun Maker
+  * 🍎 Eater
+  
+  <p align="center"> 
+  add more
+  </p>
+  
+</details>
+
 
