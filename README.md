@@ -16,6 +16,7 @@
   
   <p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgDeepLearn&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=cgDeepLearn&column=7" alt="cgDeepLearn's Github Trophy" />
   </p>
   
 </details>
